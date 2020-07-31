@@ -263,6 +263,7 @@ available at https://codimd.carpentries.org
 
 <p>
 We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  Saved copy of the <a href="202007_HPCCarpentry.html">collaborative notes taken during the workshop</a>.
 </p>
 <hr/>
 {% endif %}
