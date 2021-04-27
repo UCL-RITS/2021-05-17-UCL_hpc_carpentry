@@ -43,7 +43,7 @@ flavor: "hpc"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Pilot UCL-wide HPC Carpentry Workshop for new Myriad users"
+title: "UCL HPC Carpentry Workshop"
 
 
 #------------------------------------------------------------
